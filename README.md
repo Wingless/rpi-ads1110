@@ -1,4 +1,4 @@
-Script to read from TI's ADS1110 ADC
+Script to read from TI's ADS1110 ADC on the Raspberry Pi
 
 To install add to your PYTHONPATH variable:
 
